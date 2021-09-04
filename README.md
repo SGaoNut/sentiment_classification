@@ -1,2 +1,3 @@
-# sentiment_classification
- 
+# 文本分类
+
+采用Bert、TextCNN、TextRNN
